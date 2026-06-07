@@ -1,0 +1,15 @@
+bin/
+build/
+
+.settings/
+.project
+.classpath
+
+Servers/
+
+*.class
+*.log
+
+.metadata/
+
+*.war
